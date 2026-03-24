@@ -36,7 +36,8 @@ body {
 }
 
 .projects h2 {
-    font-size: 2rem;
+    font-size: 1.75rem;
+    color: white;
     margin-bottom: 1.5rem;
 }
 
